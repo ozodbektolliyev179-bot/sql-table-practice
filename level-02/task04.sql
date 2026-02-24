@@ -1,0 +1,3 @@
+SELECT *
+FROM users
+WHERE is_verified = true;
